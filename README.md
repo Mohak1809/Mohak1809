@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohak Mittal.
+- 👋 Hi, I’m Mohak Mittal!
 - 😄 I am a Sophomore at National Institute of Technology, Kurukshetra.
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development and Competitive Programming.
 - 🌱 I’m currently learning ReactJS and Java.
 - 💞️ I’m looking to collaborate on projects which include HTML,CSS and basic JavaScript.
 - 📫 You can reach me through email mohakmittal012@gmail.com
