@@ -21,7 +21,6 @@
 - 🎓 BTech Student at **National Institute of Technology, Kurukshetra**, Class of 2027  
 - 💡 Passionate about building impactful full-stack applications  
 - ⚔️ Active Competitive Programmer with strong data structures & algorithms skills  
-- 🌱 Currently exploring **Next.js**, **GraphQL**, and **Cloud Deployment**  
 - 🤝 **Open to Work & Collaborations** – always up for exciting technical challenges and building meaningful products
 
 <div align="center">  
